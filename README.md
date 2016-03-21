@@ -1,6 +1,6 @@
 ## Intro
 
-In a world... where wires are a thing of the past, pound signs are now hashtags and there is always a “new black,” one man will revive a gaming icon in order to preserve the past… and control the future. 
+In a world... where wires are a thing of the past, pound signs are now hashtags and there is always a “new black,” one man will revive a gaming icon in order to preserve the past… and control the future.
 
 The ultimate goal of the Power Glove UHID (Universal Human Interface Device) project is to revamp the 1989 Nintendo Power Glove with modern sensors, giving you the ability to use gesture controls with almost anything you can think of, in style.
 
@@ -9,10 +9,14 @@ Check out the [Hackaday.io project page](https://hackaday.io/project/8455-power-
 ## Revisions
 
 ### Main Board
-* Rev A (current): Unfinished WIP
+* Rev 0.1 (current): Complete! Features custom keypad, Teensy 3/LC header, ESP-12E/01 headers and Pololu 3.3V step up/down regulator.
+Top side:
+![Power Glove UHID main board - top side](images/PGUHIDMBv0.1_TOP.PNG)
+Bottom side:
+![Power Glove UHID main board - bottom side](images/PGUHIDMBv0.1_BOTTOM.PNG)
 
 ### Sensor Board
-* Rev A (current): Unfinished WIP
+* Rev 0.1 (current): Unfinished WIP. Along with the existing flex sensors, the current prototype sensor board will feature a Pololu AltIMU-10 as the main sensor.
 
 ## License
 
