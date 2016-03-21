@@ -10,10 +10,11 @@ Check out the [Hackaday.io project page](https://hackaday.io/project/8455-power-
 
 ### Main Board
 * Rev 0.1 (current): Complete! Features custom keypad, Teensy 3/LC header, ESP-12E/01 headers and Pololu 3.3V step up/down regulator.
-Top side:
-![Power Glove UHID main board - top side](images/PGUHIDMBv0.1_TOP.PNG)
-Bottom side:
-![Power Glove UHID main board - bottom side](images/PGUHIDMBv0.1_BOTTOM.PNG)
+Top side:<br />
+<img src="images/PGUHIDMBv0.1_TOP.PNG" width="600" alt="Power Glove UHID main board - top side">
+
+Bottom side:<br />
+<img src="images/PGUHIDMBv0.1_BOTTOM.PNG" width="600" alt="Power Glove UHID main board - bottom side">
 
 ### Sensor Board
 * Rev 0.1 (current): Unfinished WIP. Along with the existing flex sensors, the current prototype sensor board will feature a Pololu AltIMU-10 as the main sensor.
