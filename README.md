@@ -9,10 +9,9 @@ Check out the [Hackaday.io project page](https://hackaday.io/project/8455-power-
 ## Revisions
 
 ### Main Board
-* Rev 0.1 (current): Complete! Features custom keypad, Teensy 3/LC header, ESP-12E/01 headers and Pololu 3.3V step up/down regulator.
+* Rev 0.1 (current): Complete! Features custom keypad, Teensy 3/LC header, ESP-12E/01 headers and Pololu 3.3V step up/down regulator.<br />
 Top side:<br />
-<img src="images/PGUHIDMBv0.1_TOP.PNG" width="600" alt="Power Glove UHID main board - top side">
-
+<img src="images/PGUHIDMBv0.1_TOP.PNG" width="600" alt="Power Glove UHID main board - top side"><br />
 Bottom side:<br />
 <img src="images/PGUHIDMBv0.1_BOTTOM.PNG" width="600" alt="Power Glove UHID main board - bottom side">
 
