@@ -1,4 +1,4 @@
-update=3/12/2016 9:56:48 PM
+update=3/20/2016 11:25:59 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=../../symbols;../../Progetti Kicad libs/symbols
@@ -111,3 +121,14 @@ LibName79=C:/Users/Nolan.SkyNet/Dropbox/Kicad/symbols/ESP8266
 LibName80=C:/Users/Nolan.SkyNet/Dropbox/Kicad/symbols/mounting-hole
 LibName81=C:/Users/Nolan.SkyNet/Dropbox/Kicad/symbols/teensy_3.1
 LibName82=teensy
+LibName83=w_microcontrollers
+LibName84=w_analog
+LibName85=w_connectors
+LibName86=w_device
+LibName87=w_logic
+LibName88=w_memory
+LibName89=w_opto
+LibName90=w_relay
+LibName91=w_rtx
+LibName92=w_transistor
+LibName93=w_vacuum
