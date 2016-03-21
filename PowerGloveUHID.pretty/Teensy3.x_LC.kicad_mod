@@ -1,6 +1,6 @@
 (module Teensy:Teensy3.x_LC (layer F.Cu) (tedit 55FF36AE)
   (fp_text reference U101 (at 0 -10.16) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 1 0.75) (thickness 0.15)))
   )
   (fp_text value Teensy-LC (at 0 10.16) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -68,4 +68,9 @@
   (pad 3 thru_hole circle (at -11.43 7.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -13.97 7.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -16.51 7.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
+  (model C:/Users/Nolan/Downloads/Teensy-3.1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 10 10 10))
+    (rotate (xyz 0 0 0))
+  )
 )
