@@ -1,4 +1,4 @@
-update=2/13/2016 8:17:33 PM
+update=3/21/2016 3:14:16 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -75,3 +75,15 @@ LibName43=onsemi
 LibName44=samtec
 LibName45=teensy_3.1
 LibName46=moar-displays
+LibName47=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/power
+LibName48=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_analog
+LibName49=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_connectors
+LibName50=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_device
+LibName51=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_logic
+LibName52=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_memory
+LibName53=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_microcontrollers
+LibName54=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_opto
+LibName55=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_relay
+LibName56=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_rtx
+LibName57=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_transistor
+LibName58=C:/Users/Nolan/Dropbox/Kicad/Progetti Kicad libs/symbols/w_vacuum
