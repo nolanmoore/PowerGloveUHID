@@ -28,33 +28,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:coincell
 LIBS:ftdi
-LIBS:gatedrivers
-LIBS:moar-connectors
-LIBS:moar-electromechanical
-LIBS:moar-infineon
-LIBS:moar-linear
-LIBS:moar-micrel
-LIBS:moar-microchip
-LIBS:moar-passives
-LIBS:MOAR-POWER
-LIBS:moar-texas
-LIBS:mounting-hole
 LIBS:onsemi
-LIBS:samtec
-LIBS:moar-displays
-LIBS:w_analog
-LIBS:w_connectors
-LIBS:w_device
-LIBS:w_logic
-LIBS:w_memory
-LIBS:w_microcontrollers
-LIBS:w_opto
-LIBS:w_relay
-LIBS:w_rtx
-LIBS:w_transistor
-LIBS:w_vacuum
 LIBS:sensor_board-cache
 EELAYER 25 0
 EELAYER END
@@ -326,8 +301,8 @@ Text Notes 3600 3250 2    60   ~ 0
 Interboard communication header
 Text Notes 7800 3250 2    60   ~ 0
 Pololu AltIMU-10 header
-Text Notes 9150 3600 2    60   ~ 0
-Optional buzzer
+Text Notes 8450 3600 0    60   ~ 0
+Optional buzzer\n(PWM)
 Wire Wire Line
 	4550 3250 4550 3150
 Wire Wire Line
